@@ -34,7 +34,7 @@ The purpose of this repository is to serve as a central hub for solving and trac
 | 2.   | Best Time to Buy and Sell Stock | Easy       |         Link : [Solution](https://github.com/HimeshKohad/DSA-Sheet/tree/main/Solutions/Arrays/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)     |
 | 3.   | Contains Duplicate              | Easy       |          |
 | 4.   | Maximum Subarray                | Easy       |          |
-| 5.   | Rotate Array                    | Medium     |          |
+| 5.   | Rotate Array                    | Medium     | Link : [Solution](https://github.com/HimeshKohad/DSA-Sheet/tree/main/Solutions/Arrays/189.%20Rotate%20Array)         |
 | 6.   | Product of Array Except Self    | Medium     |          |
 | 7.   | Missing Number                  | Medium     |          |
 | 8.   | Merge Intervals                 | Medium     |          |
