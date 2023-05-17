@@ -30,8 +30,8 @@ The purpose of this repository is to serve as a central hub for solving and trac
 
 | No.  | Question                        | Difficulty | Solution |
 | :--- | :------------------------------ | :--------- | :------- |
-| 1.   | Two Sum                         | Easy       |          |
-| 2.   | Best Time to Buy and Sell Stock | Easy       |          |
+| 1.   | Two Sum                         | Easy       |    Link : [Solution](https://github.com/HimeshKohad/DSA-Sheet/tree/main/Solutions/Arrays/1.%20Two%20Sum)      |
+| 2.   | Best Time to Buy and Sell Stock | Easy       |         Link : [Solution](https://github.com/HimeshKohad/DSA-Sheet/tree/main/Solutions/Arrays/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)     |
 | 3.   | Contains Duplicate              | Easy       |          |
 | 4.   | Maximum Subarray                | Easy       |          |
 | 5.   | Rotate Array                    | Medium     |          |
