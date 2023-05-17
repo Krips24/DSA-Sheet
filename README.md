@@ -47,7 +47,7 @@ The purpose of this repository is to serve as a central hub for solving and trac
 
 | No.  | Question                                | Difficulty | Solution |
 | :--- | :-------------------------------------- | :--------- | :------- |
-| 1.   | Reverse Linked List                     | Easy       |          |
+| 1.   | Reverse Linked List                     | Easy       |     Link : [Solution](https://github.com/HimeshKohad/DSA-Sheet/tree/main/Solutions/Linked%20Lists/206.%20Reverse%20Linked%20List)     |
 | 2.   | Merge Two Sorted Lists                  | Easy       |          |
 | 3.   | Linked List Cycle                       | Medium     |          |
 | 4.   | Intersection of Two Linked Lists        | Medium     |          |
