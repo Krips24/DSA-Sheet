@@ -30,16 +30,16 @@ The purpose of this repository is to serve as a central hub for solving and trac
 
 | No.  | Question                        | Difficulty | Solution |
 | :--- | :------------------------------ | :--------- | :------- |
-| 1.   | Two Sum                         | Easy       |    Link : [Solution](https://github.com/HimeshKohad/DSA-Sheet/tree/main/Solutions/Arrays/1.%20Two%20Sum)      |
-| 2.   | Best Time to Buy and Sell Stock | Easy       |         Link : [Solution](https://github.com/HimeshKohad/DSA-Sheet/tree/main/Solutions/Arrays/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)     |
-| 3.   | Contains Duplicate              | Easy       |          |
-| 4.   | Maximum Subarray                | Easy       |          |
-| 5.   | Rotate Array                    | Medium     | Link : [Solution](https://github.com/HimeshKohad/DSA-Sheet/tree/main/Solutions/Arrays/189.%20Rotate%20Array)         |
-| 6.   | Product of Array Except Self    | Medium     |          |
-| 7.   | Missing Number                  | Medium     |          |
-| 8.   | Merge Intervals                 | Medium     |          |
-| 9.   | Spiral Matrix                   | Medium     |          |
-| 10.  | Jump Game                       | Medium     |          |
+| 1.   | [Two Sum](https://leetcode.com/problems/two-sum/)                         | Easy       |    Link : [Solution](https://github.com/HimeshKohad/DSA-Sheet/tree/main/Solutions/Arrays/1.%20Two%20Sum)      |
+| 2.   | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy       |         Link : [Solution](https://github.com/HimeshKohad/DSA-Sheet/tree/main/Solutions/Arrays/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)     |
+| 3.   | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)              | Easy       |          |
+| 4.   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                | Easy       |          |
+| 5.   | [Rotate Array](https://leetcode.com/problems/rotate-array/)                    | Medium     | Link : [Solution](https://github.com/HimeshKohad/DSA-Sheet/tree/main/Solutions/Arrays/189.%20Rotate%20Array)         |
+| 6.   | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)    | Medium     |          |
+| 7.   | [Missing Number](https://leetcode.com/problems/missing-number/)                  | Medium     |          |
+| 8.   | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                 | Medium     |          |
+| 9.   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                   | Medium     |          |
+| 10.  | [Jump Game](https://leetcode.com/problems/jump-game/)                       | Medium     |          |
 
 ---
 
